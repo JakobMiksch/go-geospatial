@@ -4,7 +4,7 @@
 
 - [proj](https://github.com/go-spatial/proj) [![GitHub Stars](https://img.shields.io/github/stars/go-spatial/proj)](https://github.com/go-spatial/proj) - Wrapper for PROJ
 - [go-proj](https://github.com/twpayne/go-proj) [![GitHub Stars](https://img.shields.io/github/stars/twpayne/go-proj)](https://github.com/twpayne/go-proj) - Wrapper for PROJ
-- [osm](https://github.com/paulmach/osm) - General purpose library for reading, writing and working with OpenStreetMap data
+- [osm](https://github.com/paulmach/osm) [![GitHub Stars](https://img.shields.io/github/stars/paulmach/osm)](https://github.com/paulmach/osm) - General purpose library for reading, writing and working with OpenStreetMap data
 - [go-geos](https://github.com/twpayne/go-geos) [![GitHub Stars](https://img.shields.io/github/stars/twpayne/go-geos)](https://github.com/twpayne/go-geos) - Wrapper for GEOS
 - [geoos](https://github.com/spatial-go/geoos) [![GitHub Stars](https://img.shields.io/github/stars/spatial-go/geoos)](https://github.com/spatial-go/geoos) - Spatial data and geometric algorithms
 - [gdal](https://github.com/lukeroth/gdal) [![GitHub Stars](https://img.shields.io/github/stars/lukeroth/gdal)](https://github.com/lukeroth/gdal) - Wrapper for GDAL
@@ -29,6 +29,6 @@
 - [pg_tileserv](https://github.com/CrunchyData/pg_tileserv) [![GitHub Stars](https://img.shields.io/github/stars/CrunchyData/pg_tileserv)](https://github.com/CrunchyData/pg_tileserv) - Mapbox Vector Tile server
 - [tegola](https://github.com/go-spatial/tegola) [![GitHub Stars](https://img.shields.io/github/stars/go-spatial/tegola)](https://github.com/go-spatial/tegola) - Mapbox Vector Tile server
 - [gokoala](https://github.com/PDOK/gokoala) [![GitHub Stars](https://img.shields.io/github/stars/PDOK/gokoala)](https://github.com/PDOK/gokoala) - Cloud Native OGC APIs server
-- [tile38](https://tile38.com/) - Geospatial Database & Geofencing Server
+- [tile38](https://tile38.com/) [![GitHub Stars](https://img.shields.io/github/stars/tidwall/tile38)](https://github.com/tidwall/tile38) - Geospatial Database & Geofencing Server
 - [tuilx](https://github.com/chavacava/tuilx) [![GitHub Stars](https://img.shields.io/github/stars/chavacava/tuilx)](https://github.com/chavacava/tuilx) - An extensible and composable WMTS server
 - [geocube](https://github.com/airbusgeo/geocube) [![GitHub Stars](https://img.shields.io/github/stars/airbusgeo/geocube)](https://github.com/airbusgeo/geocube) - Geo-spatial imagery database designed as a serverless service
