@@ -1,5 +1,7 @@
 # Go Geospatial Libraries and Tools
 
+Geospatial libraries and tools for the [Go](https://go.dev/) programming language.
+
 ## Libraries
 
 - [proj](https://github.com/go-spatial/proj) [![GitHub Stars](https://img.shields.io/github/stars/go-spatial/proj)](https://github.com/go-spatial/proj) [![Last Commit](https://img.shields.io/github/last-commit/go-spatial/proj/master)](https://github.com/go-spatial/proj) - Wrapper for PROJ
