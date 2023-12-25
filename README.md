@@ -31,14 +31,20 @@ Geospatial libraries and tools for the [Go](https://go.dev/) programming languag
 | [go-polyline](https://github.com/twpayne/go-polyline) | Implements a Google Maps Encoding Polyline encoder and decoder           | ![GitHub Stars](https://img.shields.io/github/stars/twpayne/go-polyline) | ![Last Commit](https://img.shields.io/github/last-commit/twpayne/go-polyline/master) |
 | [go-kml](https://github.com/twpayne/go-kml) | Convenience methods for creating and writing KML documents               | ![GitHub Stars](https://img.shields.io/github/stars/twpayne/go-kml) | ![Last Commit](https://img.shields.io/github/last-commit/twpayne/go-kml/master) |
 | [go-geos](https://github.com/twpayne/go-geos) | Wrapper for GEOS                                                        | ![GitHub Stars](https://img.shields.io/github/stars/twpayne/go-geos) | ![Last Commit](https://img.shields.io/github/last-commit/twpayne/go-geos/master) |
-| [go-proj](https://github.com/twpayne/go-proj) | Wrapper for PROJ                                                        | ![GitHub Stars](https://img.shields.io/github/stars/twpayne/go-proj) | ![Last Commit](https://img.shields.io/github/last-commit/twpayne/go-proj/master) |
 | [proj](https://github.com/go-spatial/proj) | Wrapper for PROJ                                                        | ![GitHub Stars](https://img.shields.io/github/stars/go-spatial/proj) | ![Last Commit](https://img.shields.io/github/last-commit/go-spatial/proj/master) |
+| [go-proj](https://github.com/twpayne/go-proj) | Wrapper for PROJ                                                        | ![GitHub Stars](https://img.shields.io/github/stars/twpayne/go-proj) | ![Last Commit](https://img.shields.io/github/last-commit/twpayne/go-proj/master) |
+| [grandine](https://github.com/thomersch/grandine)   | Libraries and tools for working with geospatial data     | ![GitHub Stars](https://img.shields.io/github/stars/thomersch/grandine) | ![Last Commit](https://img.shields.io/github/last-commit/thomersch/grandine/master) |
+| [vector-tile-go](https://github.com/murphy214/vector-tile-go) | Reading and writing vector tiles                   | ![GitHub Stars](https://img.shields.io/github/stars/murphy214/vector-tile-go) | ![Last Commit](https://img.shields.io/github/last-commit/murphy214/vector-tile-go/master) |
 | [go-waypoint](https://github.com/twpayne/go-waypoint) | Reads and writes waypoints in formats used by the free flying community | ![GitHub Stars](https://img.shields.io/github/stars/twpayne/go-waypoint) | ![Last Commit](https://img.shields.io/github/last-commit/twpayne/go-waypoint/master) |
 | [tgo](https://github.com/akhenakh/tgo) | Bindings for TG Fast point-in-polygon Geometry                            | ![GitHub Stars](https://img.shields.io/github/stars/akhenakh/tgo) | ![Last Commit](https://img.shields.io/github/last-commit/akhenakh/tgo/main) |
 | [coord2country](https://github.com/akhenakh/coord2country) | Solution to query for point in polygon in countries                      | ![GitHub Stars](https://img.shields.io/github/stars/akhenakh/coord2country) | ![Last Commit](https://img.shields.io/github/last-commit/akhenakh/coord2country/main) |
 | [insideout](https://github.com/akhenakh/insideout) | Self-contained GIS tooling for Point in Polygon tests                     | ![GitHub Stars](https://img.shields.io/github/stars/akhenakh/insideout) | ![Last Commit](https://img.shields.io/github/last-commit/akhenakh/insideout/master) |
 | [web-mercator-projection](https://github.com/jorelosorio/web-mercator-projection) | Project to explore the math to calculate and present data in a map using the Web Mercator Projection | ![GitHub Stars](https://img.shields.io/github/stars/jorelosorio/web-mercator-projection) | ![Last Commit](https://img.shields.io/github/last-commit/jorelosorio/web-mercator-projection/main) |
 | [grect](https://github.com/tidwall/grect) | Get the outer rectangle from GeoJSON, WKT, WKB                             | ![GitHub Stars](https://img.shields.io/github/stars/tidwall/grect) | ![Last Commit](https://img.shields.io/github/last-commit/tidwall/grect/master) |
+| [mbtiles-go](https://github.com/brendan-ward/mbtiles-go) | MBTiles Reader                                         | ![GitHub Stars](https://img.shields.io/github/stars/brendan-ward/mbtiles-go) | ![Last Commit](https://img.shields.io/github/last-commit/brendan-ward/mbtiles-go/main) |
+| [mercantile](https://github.com/murphy214/mercantile) | Spherical mercator tile and coordinate utilities       | ![GitHub Stars](https://img.shields.io/github/stars/murphy214/mercantile) | ![Last Commit](https://img.shields.io/github/last-commit/murphy214/mercantile/main) |
+
+
 
 
 ## Commandline Tool
@@ -48,6 +54,11 @@ Geospatial libraries and tools for the [Go](https://go.dev/) programming languag
 | [imposm](https://github.com/omniscale/imposm3) | Imports OpenStreetMap data into PostGIS                                  | ![GitHub Stars](https://img.shields.io/github/stars/omniscale/imposm3) | ![Last Commit](https://img.shields.io/github/last-commit/omniscale/imposm3/master) |
 | [cogger](https://github.com/airbusgeo/cogger) | Standalone binary and a Golang library that reads an internally tiled geotiff and rewrites it as a Cloud Optimized Geotiff (COG) | ![GitHub Stars](https://img.shields.io/github/stars/airbusgeo/cogger) | ![Last Commit](https://img.shields.io/github/last-commit/airbusgeo/cogger/main) |
 | [gpq](https://github.com/planetlabs/gpq) | A utility for working with GeoParquet                                    | ![GitHub Stars](https://img.shields.io/github/stars/planetlabs/gpq) | ![Last Commit](https://img.shields.io/github/last-commit/planetlabs/gpq/main) |
+| [exifLooter](https://github.com/aydinnyunus/exifLooter) | Wrapper around exiftool                              | ![GitHub Stars](https://img.shields.io/github/stars/aydinnyunus/exifLooter) | ![Last Commit](https://img.shields.io/github/last-commit/aydinnyunus/exifLooter/main) |
+
+
+
+
 
 ## Servers
 
