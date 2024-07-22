@@ -43,6 +43,8 @@ Geospatial libraries and tools for the [Go](https://go.dev/) programming languag
 | [grect](https://github.com/tidwall/grect) | Get the outer rectangle from GeoJSON, WKT, WKB                             | ![GitHub Stars](https://img.shields.io/github/stars/tidwall/grect) | ![Last Commit](https://img.shields.io/github/last-commit/tidwall/grect/master) |
 | [mbtiles-go](https://github.com/brendan-ward/mbtiles-go) | MBTiles Reader                                         | ![GitHub Stars](https://img.shields.io/github/stars/brendan-ward/mbtiles-go) | ![Last Commit](https://img.shields.io/github/last-commit/brendan-ward/mbtiles-go/main) |
 | [mercantile](https://github.com/murphy214/mercantile) | Spherical mercator tile and coordinate utilities       | ![GitHub Stars](https://img.shields.io/github/stars/murphy214/mercantile) | ![Last Commit](https://img.shields.io/github/last-commit/murphy214/mercantile/main) |
+| [go-geoserver](https://github.com/camptocamp/go-geoserver) | Go client for the GeoServer REST API       | ![GitHub Stars](https://img.shields.io/github/stars/camptocamp/go-geoserver) | ![Last Commit](https://img.shields.io/github/last-commit/camptocamp/go-geoserver/master) |
+| [terraform-provider-geoserver](https://github.com/camptocamp/terraform-provider-geoserver) | Terraform provider for managing GeoServer configuration | ![GitHub Stars](https://img.shields.io/github/stars/camptocamp/terraform-provider-geoserver) | ![Last Commit](https://img.shields.io/github/last-commit/camptocamp/terraform-provider-geoserver/master) |
 
 
 
